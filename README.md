@@ -60,3 +60,5 @@ Built for developers by developers, CodeFrost understands your code context, spe
 
 - Reviewer for code quality and architecture planning.
 
+  Try out [Code Frost](https://chatgpt.com/g/g-67d9d59e1e848191ac682d898e755b03-code-frost) You will require a ChatGPT account, and you will need to be logged in.
+
